@@ -1,0 +1,5 @@
+name: "[Ceoi2011]ballons"
+source: bzoj (OI-Archive)
+time_limit: 50000
+timing_mode: total
+space_limit: 64
