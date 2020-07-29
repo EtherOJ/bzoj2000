@@ -1,0 +1,5 @@
+name: happiness
+source: bzoj (OI-Archive)
+time_limit: 51000
+timing_mode: total
+space_limit: 259
