@@ -1,0 +1,801 @@
+100
+38 47 1
+B B W W W B B W B B W W B B W B B W W B B W B W B W B B W B W W B B W B B B
+W B B W W B W B W B W W W B W B W W B W W W B W B B B B W B W B W B B B B W W W B B B W B B B
+B
+14 25 11
+W W W B B B B B B B B W W B
+W W B W W B B W W W B W B B B B B W B B B B W W W
+B W W W B W B W W B W
+21 3 42
+B B W W W B B B B B B W W B W W B W W W B
+B W W
+W B W B W B B W W B B W W B B W B W B B B B W W B W W W W W B B W B B B W B W W W W
+39 12 20
+W B W W B B W W W B W W W W W W B W B W W B W W W W W B B B B W W B W B W W W
+B W B B W B B W W B W B
+B W W W B W B B B B W B B B W W B W W W
+5 50 1
+B W B B W
+W B W B W B W W W W W B W B W B W W W W W W B B W W W W B W B B W B W B W W B W W W B B B W W B W W
+B
+48 2 22
+B W W W W W W W B B W W W B W B B W W W W W W W B W W B B W W W B W B W B W B B W B B W W W W B
+W W
+W B W W W W B B B W W W W W W W B W B W B W
+5 21 45
+B B W W W
+B B B W W W W B B W B W W B B B B B B W B
+W B W B W B W B B W W W W W B B B B B B W B B W B B W W B B B B W B W B W W B W W B W W B
+32 42 40
+B B W B W W W B W B B B B W B B B B B W B W W B B W B W B B W W
+B W W W B B B W B B B B W B B W B B W W B W B W W W W B W W B W W B W W W W B B B B
+B B W W W B B W B W W W W B B B B W W B B W W B W W B B B B B B B B B B W W B B
+8 46 35
+B B B W B W B B
+B B B B B B W W W W W B B W W W B B B B W B W B B B W B B B B B W B W B W B W W W W B B W W
+B B W B B B B B B B B W B W W B B B B B W B B W W B B B W W B B B W W
+18 15 50
+W W W B W W B W W B W B W W W B B W
+W B W W W W W W B B B B W W W
+W B W W W W W B B B B W B W B B B W W B B B B B B B W B B B W B W B W B W B B B W W W B B W B W W W
+7 34 41
+W W B B W W B
+W W W B W B B B W B B B B B W W W B B W W B W B W B B W W W W B B B
+W W W B B W B B B W B B B B B B B W W W W B W B W B W W W W W W W W W B B W B B B
+50 9 7
+B W B W B B B B B B W W B W B W W B B W B W B W B W W B B W B B W B W B B B W W B B W W W W W W B W
+W W W B B W W W B
+W B W W W W W
+9 3 20
+B W W B W W B W W
+B W B
+W B W W B B B B W B B W B B W W W W B B
+25 18 18
+B B B B W W W B W B B W B B B B W B B B B W B W W
+B B B W B B W B B B W W W W B B W W
+B W W W B B W W W W W B B W W W B B
+10 41 12
+W B W B B W W B B B
+W W B W B B W B B W B B W W W B W B W W B W W B B W W W W W B W B W W W W W B W B
+B B W W B B W B W W W B
+49 22 19
+B B W W B W B W W B B B W B B W W B B W W W W W W B W B W W W W B B B W B W B W W W W W W W W B B
+W W B W W W W B W B W W W B B W W W B B B B
+W B B W B B W W B B B B B B W B B B W
+42 35 47
+B W W W B B W B W W B B B W B B B B B B W B B W W B B W W B W W W W B B W B W W B W
+B W B W B B W B W B B B B B B B B W W W W W W W W W W W W B W B B W W
+W W B W B W B W B B W B W B W W W B B B W B W W W W W W W B W B B W W W W B B B W B B B W B B
+2 37 6
+W W
+B B W B W B W B W W B W W W B W W B W W B B B W B B W B B B B W W W W W B
+B B W W B W
+21 8 16
+B B B W W W B B W W B B B B W B W B B W W
+W W W B W W W B
+W B B W B B W W W W B W W W B B
+29 24 14
+W W W B W B W B W W W B B B W B B B B W B B B B B W B W B
+W W B B B B B B W W B W W W B B B B B W W B B W
+B W B W W B W W B B W B W W
+3 28 47
+B B B
+B B W B W W B B W B B B W W W B W W W W W W B W W B B W
+B W B W B W B B B B B B B W B W W W W B W W W W W B W B B W B B B B B W W W B W B W W B W B B
+39 0 49
+W B W W W B W B W W B B W B B W W W B W B B B B W W W W B B W B B B W B B W W
+
+B W W B B B B B W W B W W W W B W B W W W B B W B B W W B W W W W B B W W B W W B B B B B W B W B
+3 1 22
+W W B
+B
+W W W B B B B W W B B W B W B B B W B W W W
+49 6 5
+B B W B W W W W B W W B B W W W W W W B W W B B W W W W B B W W W W W B B B B W B W W B B W W W W
+W B W W W W
+B W W W B
+16 35 5
+W W B B B W W W B W B W B W W B
+B W B B B B W B W W B W W W B B W B W B B B B B W B B B B W B W B B B
+B W B B W
+39 35 38
+B B B B B B W B W B B W W B W W W W B W W W B B W B W B W W B B W W B W W B B
+W W W B W W W B W B B W W W W W B W B W W W B W B W B W B W B W B W B
+B W W W B B B W W B B W W W W B B W W B B B B W B B W B W B B W B B W B W W
+5 22 21
+W W B B B
+W B B W W B B W B B W B B W B B W B W W B W
+W W B W W B W B W W W B B B B B W B B W W
+39 50 5
+W B W B W W W B B W B W W W W B B B W B B B B W B W W W W B B W B W B B W W W
+B W W W B B W W B W B B B B B W W W W B B W W W W W B B W B B B B W W W W B W B W W W B B B B W B B
+B W W B W
+45 31 48
+W W B B B B W W W W W W W B B B B W W B W B B W B W W W B B W W B W W B B W W B W W B B W
+W B B B B B W B B W B B B W W B W B B B B W B W B B B B B W B
+W W B B W B W W B W B B B W B W B B W B W W B B B B B W B B W W B B B W B W B B W B W B W W B W
+16 45 9
+B W B W W W B W W B W W B B W W
+W B B W B B W W W B W W B W B B B W W W W W W W B W B W W B W W B W B B W W W B W W W W B
+B W B W B B B W B
+31 20 18
+B B B W W W B B W W W B W W B W W B W B W W W B W B W W W B B
+W W B W W W W B W B B W B W B B W W B W
+B W B B W B B B B B B W W W B B W B
+3 36 16
+B B B
+B W B B B W B W B W B B W W W W W B B B B W W B B W B W B B B W W W W B
+W B B W B B W B W B B W W W B B
+3 30 46
+B W W
+B B W W B B B B W W W W B B W B B B W B W W B B W W W B B B
+W B B B B B W B B W B B W W B W W B W B W B W W W B W B W B W W B W B W W B B B W B W W W W
+21 43 34
+W W B B W W W W B W W B W W W B B B B B W
+B B B B B W W W W W B B W W B W W W W W W W B B B W B B W B B B W W W W B B B B B B B
+B W B B W B W W W B W B W B B W B W B B W W B B B W B W W W B W W B
+28 21 7
+B W W B W W B B W B W B W W B W B B W B W W W B B W B W
+W W W W W B W B W B W W W W W B B W W B B
+B W W B B W W
+40 20 8
+B B W B B W W W W B W B B B W B W W W W B B B B W B B B B W B B B B B W B W B B
+W B W W W W B W W B W W B B B B W B B B
+W W B B W B W B
+14 39 46
+W B B B W W B W B B W B W W
+W B W B W B W W W B W W B W W W W W B B B B W B B B B W B W W W W W B B W W B
+W B W B W W W W B W B B W B W B B B B B B B W B B B B W B W W W W W W B W W W B B W W W W W
+7 12 22
+W W B W B B W
+W W B B B W B W B B B W
+B W W W W W W W B B W W B W B W W B B W W B
+22 29 13
+B B W B B B W W B W W W B B B W W B W W W W
+B B W B W W W W B B W B B B B B B W W W B W B B B W W W B
+B W B B W W B W B W W W B
+44 20 1
+B W W W W B B W W B W W W W W B B W W W B W W B B B W B W B B B B B B B B B W W W W B W
+B W W W W B B B B W B W W W W W W W B W
+W
+20 41 18
+W W W W B B B W B B B B W B W W W W B W
+B B B W W W W B W W B W B B B B B B B W W B B W B W W W B W W W B B W B B W W B B
+B B W W W B W W W B B B B W B B B W
+34 50 25
+B B W W W B B W W B W W W B W W W W W B B B B B W W B W B B B B B B
+B B W B W W W B B B W B W W W B W W W W B B B W W W W B B W W W B W B B B B W W W B B B B B W B B B
+W W W B W W W B W B W W W W B W B W B W W W W B B
+2 9 45
+W B
+B B W W W W B B B
+W W B B B W B B W B B B W W W B W W W W W B W B B W W W W B B W W W W B W W W B B W B B B
+39 15 24
+W W W B B B B W W W B B B W B B W B B B W B W B W W W W W W B W B W B W B B W
+W B B B W B B B W W B W W B B
+B W W B W W W B B B W W W B B W B B W B B W B B
+9 29 48
+W B B W W B B B W
+W B B B W B B B W W W B B W W W W B W W W W W B B W B W W
+B W B B W W W W W W B B B W W W W W B W W B B W B B B B W W B B W W W W W W B W W B W B W W B W
+16 1 36
+B B W B B W W W B B B B B B W W
+W
+B B B W W B W W B B W B W B W W B B B B B B B B B B B W B W B B W B B W
+20 20 23
+W W B B W W B B B W B B B B W W W W B B
+B B B B W W B B W W W W B B B W W B W B
+B B B W B B B W W B W W B B B B B B W B W W W
+11 46 39
+B W W B W W B B B W W
+W B B W B W B B B B W W W B W B B B B B W B B B B B W B B W B B B B W W B B W W W W B B B W
+W B W B B B W W W W W W W B W B W B B W W B W B B B W B W W B B B B W B W W W
+46 9 11
+B B W B W B B B W B B W W B B B B B B B B W B W B B W W W B B B B B W W B B B B B B W B B W
+W W B W B W W B B
+B B W B B W B W B W B
+27 16 5
+W B W W W W B W W B B B W W B W B B W W B B W B B W W
+B W W W B W B B W B W W B B W W
+B W B W W
+26 23 10
+W W W W B W W W B B B B B B B B W B B W B B B B W W
+W W W W B B W W W B B W W B W B W B W W W W W
+B B W B B B W B B B
+1 0 50
+W
+
+W W B W W W B B W B W B W B B W W W B B W W B W B B B W B B W W W B W B W W W W W W B W B W W W W W
+30 38 29
+B W W W W B W W W B B B W B W W W W W B B W W B W B W B B B
+W W B W W B W W W W W W B B B W W B B W W B B W W B W B W W B W B W B W B B
+B W W W W W W W W W W B B B B W B W B B B W W B W B W B B
+4 26 16
+B W B B
+W B B W B W B B W W W W B W B B W W B B W B W B W B
+W B W W B W W W W B W W W W W B
+20 34 36
+W B W B W W B B W B B B W W B B B B B B
+W B B B W W W W W B B W W W W B B B B W B B B W W B B B B B B W W B
+B B B B W W W B W B B W W B W W W W B W W B B B B B B W W W W B W W B B
+31 43 32
+W W W B B W W W W W W B B B W B W W W W W B W B W W B W B W B
+B W B W W B B W W W W B W B B B W B B B B W B B B B W W W B W W B W W W W W B B B B B
+B B B W W B B B B B W W B W B W W W B W B W W B B W B W W W W W
+30 44 17
+W W B B B B B B W B W B W B B B W W B B B W W B B W B B W W
+W B B W W B B B B W B W B B W W B W B W B W W W W W B B W W W B W W W W B B B W W W W B
+W B W W W W B B B B W W B W W B B
+1 31 13
+W
+B W W W W W B W W W W W W W B W W B W B W B W W B W B W W W B
+W B B B B W W B B B B B W
+27 43 32
+W W W W B W B B B B B W B B B W W B W B B B B B W B W
+B B B B W W W B B B W B B B W B W B B B W B W W B W W W W W W W B W W B W W B B B B B
+B W W B W B W W B W W W W B B B B W B B B B B W W B W W W W W B
+17 48 36
+W B W W W B W B B W W B W B B B W
+B B B W B B W W B W B W W B B W B W W B W W B W W B B B B B W B B B B B B B B W B B B B B W B W
+W B W B B W B W W W W B W W W W B B B B W W B W W W B W W W W W W W B B
+4 39 38
+B W W B
+W B W W W W W B W W W W W B B W B W W W B B B W B W B W B W B B B W B B W W B
+W B B B B W W W B W B W B W B B W B B W B B B W B W B W B W B W W B B W W B
+7 4 26
+B W W W B W W
+W B W W
+W B B B B B B B W W B B B B W W W W B W W W W W B B
+37 12 43
+W W W B B W W W B W B W B W B B B W W W W B W W W W B W B W W B B B B B W
+W W B B B B B B W B W B
+B W B W W W B W W B W B B B W B B B W B B W B B B W W B W W W W W B W W W B W B W W W
+20 46 11
+W W W W B W W W B B W B W W W W W W B W
+B B B W B B B B W B B W B W W B B B W W W B W W W W B B B B W W W B B B W B W B W W B W W B
+W B B W W B W B B B W
+29 6 12
+B W W B W B W W B B W W B W B B W B B B B B B B W W B W B
+W B B W W B
+W W W W W W W B W B B W
+44 49 26
+W W W W B B B B W W B B W W W W W W W W W W W B B B W W W B B W W W B B W B W B W B W B
+B B W B B W B B B B W B B W B B W B W B B W W W B W B W W B B B B B B W B B W B W W B W W W W W W
+B B B B B W B W W B B B B B W W W W W B W B W B W B
+46 25 46
+W W B W W W W B W B W W W B W B B B B B W W B W B W W W W B W B B B B B W W B W B B W W W W
+B B B B B W W B W W W W W B B B B W W B W B W B B
+W W W B W B W B B B B W B W W W W B W W B B B W B B B B W B B W W W W B B W B B B W B W W B
+43 17 28
+B B W B W W W B W B W B B B W W B W W W W W W B W B B B B B B W W B W W W W W W W W W
+W W B B W W B W B B W W B W B W B
+W B B W B W W B W W B B W W B B B B W W W B W B B B B B
+16 50 25
+W W W W W B B W W W B B B B W W
+B W W B B B B W B W W W B W W W W W B W B W B B W W B B B B W B W B B W W W B B B B W B W W W W W W
+W W W B W B B B B W B W B W W W B W B B W B B B B
+35 39 2
+B W W W W B B B B B W W W B B W W B W W W W W W W W B B B B B W W B B
+B B B B B B W W W W B B W B W W W B W W B W B B W B W B W B B W B W W B B B B
+B B
+16 49 14
+W B B W W B W W W W B W W B B W
+W W W W W W B B W B B B W B B B B W W B B B W W W W W W W W W W W B W B B W B B W B W W B B B W B
+B W B B W W W W W B W W W B
+40 3 9
+W B B W W B B B B W W W W W B B W B B W W B W W W W B W W W B W B B B B W B W W
+B B W
+B B W B B B W B W
+17 44 15
+W W B W B B B B B B B B W W B B W
+W W B W B B B W B W W W B B B B B B W B W W W W B B W B W W B W B W W B B B B W W B B W
+B B W W B B B W B B B B B W W
+4 9 24
+W B W B
+B W B W W B B W B
+B B W B W W B W W B B B B W B W W B W W B B B W
+41 16 11
+B B W W W W W B W W W B B W W B B B W B W B W W W B W W B B B B W W B W B W B W W
+B B W W B B B W B W B B W W W B
+B W W B W W W B W W W
+32 49 48
+W B B W B W B W W W B W B B W W W W B B B B W W W W W W B B W W
+B W W B W B W B B W W W B W B B B B W B B B W B B B B B B B B W B W B B W W B B B B B W W W B B B
+W W B B B B B W W B W B W W B B B W B W W W B W B B B B B B B W W B B B W B W W W W W B B B W W
+2 12 29
+W B
+W B B B B B W B B W B B
+W W B W B B B W B B B B B B B W W W W B B W W B W B W W W
+14 16 47
+B B W B W W B W B B W W W W
+B B W W W B W B B W W W W W B B
+W B W W W B B B W W W B W B B W B B B W W W W B B B W B B B B W W W B B B B B B W B B B W B W
+49 17 49
+B B B W W W W B B W B B B W B B B W W W B W B W W W B W W W W B B B W B W W W W W B W W B W B W W
+B B W B B W B B B W B W B W B B B
+W B W W B B B W W B W B W B B W W B W W W W W W B B W W B W B B B B B W B B B W B B W W B W W W B
+0 17 12
+
+W B B B B W B B B B W B B B W B B
+B W B B B B W W W W B W
+49 4 22
+W W W W B W B B W B W W B W W W B W B B B B B B B W W W W W W B B W W B W B B B W W B B B W B W B
+B B W W
+W B B B B W W W B W B B B B W B W W W B B B
+40 34 42
+B B B B B W B W W W W B W B W B B W W W W W W W B B W W W B W W B W W W B W B B
+W B W W W W W W W W W B B W W B W B B W B B B B B B W B W B W B W B
+W W W B W B B W B B B W W B W W B B B W B B W W W B W W W W B B B W B B B B B B W B
+39 10 29
+B B B B B W W B B W B W W W W B B W B W B B W B B W W W W B B B W B B W W B W
+W B B B B B B B B B
+B B W B B W B W W W B W B W W B W B B B W W B W B W B W B
+10 20 8
+W W B W B B B B B B
+W W B B B W W W B W B B W W W W B W B W
+W W B B W B B B
+14 31 31
+B W W B B W W B B B B W B B
+W B W W W W W W B B B W W B W W W B B B W B B W W W B W B W W
+W W B B W B B W B B B B W B B W W B W B B W W W W B W B B W W
+48 22 46
+B B W W B B B B W W B B W W W W W W B B B W B W B W W W B B B B B W B W W B B B W B B B W B B W
+W W B B B W W B W W W W W B B B W W W W W W
+W W B W W B W B B B B W B B B B W W W W W W W W B W W W B B B B B B B B W W B W W B W B W W
+15 0 14
+B W B B W W B W B W W W B W W
+
+W B W B B B W B B B W W W W
+14 24 3
+W W B B W B W W W B W W B B
+B B B W B W B W W B W W W B B W W B B W W W W W
+B W B
+18 5 34
+W B B W W W W B B B W B B W W B W B
+B B B W W
+W W B W B W B W W B B B W W B B B W B W W B W B B W W W W W W B W B
+38 4 21
+W B W W W B W B W B W B B B W B W W B W B B W W W B W W W W B B W W B W B B
+W W W B
+W B B W W B W B B W W W B W B B B W B W B
+29 28 28
+W B B B W W W B B W W B B W B W W B W W W B B W B B W W B
+B B B W B B B B B B W W W B W W B W B B W B W W B W W W
+W B W B B B W W W B W W B W B B B B W W B W W W W B W B
+26 12 22
+B B B B W B W W W B B B W W W B W W B W B B B B B B
+W W W B W B B B B W B W
+B B B B W B B B B B W W W B W W W B B B B B
+36 9 25
+B B W B B W W W B B W B B B W B W W B B W W W B B W W B B B W B W B B B
+W W B B B B W W W
+B B W W B W B B B B B B B B W W W W W B W W B W W
+17 17 44
+B B B B B B B W B B B B B B W W W
+W W W B B B W W W W B B W W W W B
+B B B B B W W B W W B W B W B W B B W W B W W W B B B B B B W B W B B B B B W W B B B W
+30 2 20
+B B B W B B W W B B W B W W B W B W B B W W W B B W B W W W
+W W
+W B B W B W W B B B B W B W W W B B B W
+34 30 9
+B W B W B B B W W W W B W W W W B B W B B W W W W W W W W B W W B B
+W W B W W B W B W W B B B W B B B B B W W W W W B B W B B B
+W B B W B W B W B
+49 17 49
+B B B W W W W W W W B W B B W B B W W B B W B W B W B B B B B W W W W B W B B B B B W W B W W W B
+B B B B B W B B B B B B B W W B W
+W W W W W B W W W B W W W W B W B W B W B B W W W W W B B W B B B B W B W W B W W W B B B B B W W
+48 30 2
+W B B B B W B B W W W B W W W B W W W W W B B W W B B W B B B B W B W W W B W B W W W W B W B W
+W W B B B B B B B W W W W B B W W B W B B B B B B W B B W B
+W B
+28 24 44
+W W W B W W W B B B B B W B W W W W B B W B W W W W W W
+B B W B B W B W W B B B B W W B W B B W B B W B
+W B W B B W W W B B W W B W B B B B B W B B B B W W B W W W B B B W W B W W W W B B B W
+41 26 49
+W B B W B B B W W B B W W W B W W W B B B B W W B B B B W W W B W W B B W W W B W
+W W W B W B B W W B B W B B B W W B B W B W B B W W
+W B B B B W B B W B W W W B B W W W W W W W W W B B W W W B W W B W B W W W B B B W B B B B W W W
+18 22 28
+B W W B W W B W W W B B B W W W W B
+B B W W W W B W B W B B W B B W B B W B W B
+B W B W B B B W B W B B W W B W W W W B B B B W W B B W
+36 47 18
+B B W W W B W B B B B B B B W W W W B W W B W B B B W B B W W B W W B W
+B B W B W W W B W B W W W W B B B B B B B W W B W W W W B B W W W W W W B B B B B W W W B B W
+B W W W W W W B B W B W B B W B B B
+18 43 1
+B B B W W W B B B W B W B B B B W W
+W W W B B W W W B B B B W B W W W W B B W B B B B B W B B W B W B W B B W W B B B W B
+B
+50 48 43
+W B W W B W B W W B W W W B B B W B W B W B B W B B B B B W W B B B B W W B B W B W B W B B W B W B
+W W B B B B W W B B B B B B W B W B B W W W B W W B W B W B B W B W W W W W B B W W B W B B B B
+W W W W B B W B W B W B W W B W W B B B W W B W B W W W W W B W B B B W B B B B B B B
+12 16 9
+B B W W W B W B W W B B
+W B W B B B B W W W B W W B W W
+B B W B B W W B W
+23 22 14
+B B B W B B B B B B B B W W B W W B B B W B B
+W W W B W B W W B W W W W B B B B W B B B B
+W B B W B B B B W W W B B B
+1 9 38
+B
+B W B B W B W B W
+W B W B B W W B W W B W B W B W W W B B B B W W B B B B W B B B W W W B W W
+35 4 21
+B W W B B B B B W W B W B W W B W W B B W B W W B B W W W B W B W B W
+B W W W
+B B W B B W B W B B W W W W B B B W B B W
+16 45 26
+B W W W B B B W B B W B W B B B
+B W B W B B B W B B B B B B B W B W W W B B W B W B B W W W W W B B W W B W W B W B W W W
+B W W B B W B B W W W W B W B B B B W W B W W B B B
+19 26 42
+W B B B W W W W B W B W W B W B W B B
+B B W W B W B W B B B W B W B B B W W W B B W W B W
+W B B W W W W W B B W W B B B W W B W B B B W W B B W W W W B B W B B B W W W B B W
+35 7 40
+B W W B W B B W B B W W W W W W B W W W W B W W B B B B W W W W W B B
+B W B B B B W
+B B B W B W B W W B B B B W B W W W W B W B B B W W B B B W W W B W W W B W B B
+9 14 42
+B B B B B B W B W
+B B W B B B B W W W B B B W
+W W B B W W B B W B B W B W W B B B B W B B B W B B B W B W W W W B B B W W W B B B
+25 47 32
+W B W W W W W W W B W W W W W W B W W B W B W W W
+W B B W B W B W W W B B B B B W W B W W B B B W B W B W B B B B W B W W W B B B B W B B W B W
+B B B W B W W W B B W W W W W W W B B B B B W B B W W B W B B W
+2 38 34
+B B
+B W B B W B W B B B W W B W B B B B B W W W W B B W B B W B W W W W W W W B
+W B B W B B B W W B W W W B B B W B W B B W B W B W B W W W B B W B
+30 17 11
+W W W B B B W W B B W W W W B W W B B W B B W B W W B B W W
+W B W B B B B W W B W B W B B W W
+B W W B W W B W B B W
+41 49 49
+W W W B B B W B W W W W W B B B B W B B B W W B B W B B B W B B W W B B W B B B W
+B B W B B W W W B B B B B W W W B W B W B W B W B W W B W B W W B W B W B B W B W W W B B W W B W
+B W W B W B B W W W W W W B B W B B W W W B B W W W W B W B B W W W W B B W W B B W B W W B B W W
+13 26 26
+W W B B B W W B B B B B B
+B W W B W W B W B W W W B B W W W B B B W W B W W B
+W B W W W B W B W B B W W B W W W B W W W W W B W B
+26 33 50
+W W W W W W B B B B W W B B W B W B W W B B W B B B
+W B B B B W W B B W B W B W W W W B W B B W B B B W B W B B B W B
+W W B W B W B B B B B B W W W B W B W W B W W W B B W W W W W W W B B W B W B B B W W B W B W B W W
+46 6 40
+B B B W B W W W B B W B B W B W B W B W B B W B W B B W B W W B W B B B W B W W W W B W W W
+B B W B W B
+B W W W W W B B W W W W W B W B B B W B W B B W W B W B W B W B B W W B B B W W
+15 43 41
+W B B B B B B B W W W B B W W
+B B B W B W W B B W B W B W B B B B W B B B W W B B W B B B W W B W W B W B B B W W B
+B B B B B B B W B B W W B W W W W W W B W B W W W W B W B B W B W W B B W W B B B
+7 16 43
+B B B B W W W
+B B W W B W W W B B B W B W W B
+W B B B W W B B W B W B W B W W W B B B B W B W B B W W B W B W W B W B B B B B B B B
+32 15 36
+B B W B B W W B W W W B W W B B B B B W W B W W W B B B B B B W
+W B B B W B B W W B W B B B B
+B W W B W W W W B B B B W W W B W W B W B B B W W W W B W W B B B W B W
+36 48 45
+W B W W B B W W B W B B B B W B W W B W B B B W B B B B W W W B W W B W
+B W W W B W B B W B B B W B B W W B B B W W W B B W B W W W B W B W W B W W W W B W B B W B W B
+W B B B W W B B B W B B W W B B B W B B W B W B B W W W W W W W B W W B B W B B B W W B B
+27 23 47
+W W W B B B W B B B W W B B B B W B B W W W B B W W W
+B W W W W W W W B B W W B W W W W W W B W B W
+B W W B W W W W B B W B B B W B W B W B W B W W B W B B B W B B B B B W W W W B B B B B W B W
+49 29 24
+B B B B B W B W W W W W W W W W B W B B W B W W B W B B B B W B W B B B B W W B W W W B W W B B B
+B B B W W W B B W B W B B B W B B W B B B W B W B W B B B
+B B B W W W B W B W W B B W B W B B B B W B W B
+22 21 45
+W W B W W B B W B B W B W B W B W W B B W B
+B B B W W W W B W W B B W B W B B B B B B
+B B B W B W B W W B B B W B W W B B W W W B B B W B W B B B W W W W B B W B W B W W W B B
+22 40 27
+B W W B B B B B B W B W W W B W B B B B B B
+B W W W W W B B W W B B W W B W W B B B W W B B W B B B B B B B W W B B W W W W
+W W B B B B B B B B W B W B B B W B B W B W W W B W W
+47 2 41
+W B B W B W B W B W B W W W W W W B W W B B B B B B B W W W B B B W B B B B W W B W W B W B B
+W B
+B W B B B B B W W B B W B W W W B B B W B W B B B B W B B B B W W B W W B W W B W
+38 50 29
+W B W B W W W W B B B B B W B W W B W B B W W B W B B B B B W B B W B W W W
+W W B B B B B B B B B B B B W W B W B W W B W W B B W W B B W W B W W B W B B W W W W B W B B B W B
+B B W B B B W B W W W W W W B W W B B W B B B B W B W B W
+8 6 38
+B W W W B B B W
+W W W B W B
+B W W B W W W B B B B B W W B W W B B B W B W W W W W B W B B W B B B B W B
+49 12 0
+B B W B B B B B B B W W W W W W W B B W B B B W B B B W B W W B W B W W W B B B B W W W B W B B W
+B W B W W B B B B W W B
+
+1 0 26
+W
+
+W W B B B B B B W B B W W B B B B W B W B W W B W W
+49 12 22
+W W W B W W B W W W B B W W B B W W W W W W B W B W W B B B B B W W W W B B B W W B W B B W W W B
+W B W B B B B W B W B B
+W W W B W W W B B W B W B B B B B B W W W B
+6 15 41
+W B W W W B
+W W W W W B B W B B W W W B B
+W B W B W W W B B B B W B B W B W B W B W W W W B W B W W W W W B W W W B W B B B
+19 20 31
+B B B W W W B W W W W W B W B B B B B
+W W B W B B B B W W W W B B W B B B B B
+W B B W B B W W B W B W B W W B B B B B B B B B W B B W W W B
+19 27 18
+B W W W W B B B B B W B W B W W W B W
+B W W B B B B W B B W B W B W B B B W B B B B W B W W
+W B W W B B B W B W B B W B B B W B
+45 16 23
+W W W W W W B B B B B B W B W B W B W W B B B B B W W W W W B B W B B B W W W B B W W W B
+W W W W W B B B B B B W B B W W
+W B W B W B W W B W B B W B W W B B W B B B B
+34 44 16
+W W W W W B W W W B W B B B B W W W W B B B B W B W W B W W W W W W
+B W B W B W W B B B W B W W B B W B W B W W B B B W W W B B W B B W B W B W B B W W B W
+B W W W B B W W B B W B B W B B
+5 30 15
+W W W B B
+B W B W W B B B W B B B B B W B W B B W B B W B B W B W B B
+W B B B B W W W W B B B B W B
+20 37 12
+W B W W W B B B W W W W B B B B B B B W
+W W B W B B W W B B W W B W W W B B W W B W B W W W B W B B B W B W W B W
+W W B B B B W W W B W B
+20 0 8
+B W W B W W B B B B W B B B W B W B B W
+
+W W W B W B B W
+22 18 32
+B W W B W W W B B B B B B B B W W B W B W W
+W B W B B B B B B B W B B W B B B B
+W B W W B W W W B B B B B W B B W W W B B W W W B W B W W W B W
+27 43 46
+W B W B B B W B B W W W B W B B W B W B B B W W W W B
+B W W W W B W B B W W B W W B B B W B B B W W B B B B B W B B B W W W B W B B B W W B
+W B W B W B W W B B B W B B B W B B B B B B B B B B B B B W B W W B W W B B W W W W B B B B
+3 31 13
+W W B
+W B B B B W B B W W W W W B B B B B B W B W W W B B B B B B B
+W B B B B B W W W B W W B
+16 13 27
+W B W B B W W W W B W B B B B B
+B W B B W B B W B B W W B
+B B B W B B W W W W W W B W B W W B B W W B W W B B B
+30 20 17
+B B W B B B W W B B B B B W B W W W W B W B W B W B W B W B
+B B B W W W B B W B B B B W B B B B B B
+B B B W B B B W W B B W W B W B B
+6 50 25
+B W W W B B
+B B B W W W B B B B B W B B B W B W W B W W B B B W B B W W W W B B B W B B B B B W B B B B B W W W
+B B W W W W W B W B B B B B B B W W W W W B B B W
+38 15 39
+W W B W W B W W W B B B W B B W W W B W B W B B B W B W W B B W W B B W B W
+W W B B B W W W B B B B W B W
+B B B W W W B W B W W W W W W W W W W B W W B B W B W B W W B B W B B B W W W
+44 28 41
+B W W W W W B W B B W W B W B W B W B W B B B B W W W W W B B W W W W W B W W W W B B B
+B B W W B B W B W B W W W W W B B B B W W B W W B W B W
+W B B B B B B B B W W W W W W B B B B W W W B B B B B W B B W W W B W W B W B B B
+42 41 47
+B W W W W W W B W B W B B B B B B B W W B W B W W W B B W B W B B B W B B B W W W B
+W B W W B W B W B W W B W W W B B B B B W B W B W B W B W W W B W W B B W W B B W
+B B B B W B B B B B W B B W W W W B B B B B W B B B W W B W B W B B B B W W B B W W W B W W B
+25 29 12
+B B B W W B W B W B W W W W B B W W B W W B B B B
+W W B W B B B W B B W W B W B B W W B W W B W W B B B B W
+W W B W W W W W W B B B
+18 1 45
+W B W W B B W W W B B W B B W W B B
+W
+W B W W W B B W B W W W W W B W B W W B B W W W W W B W W B W W B W B W B W B W B W B B B
+13 9 50
+W W B B W B B W W W B B B
+W W B B W W W W B
+W W B W B W B B B W W B W W W B B W W B B B B B B W W B B B B B B B W W B W W W B B W B W B B B B B
+18 6 10
+W W B W B B B W W B B W B B W B B B
+B W B B B W
+W B B W B W B B W B
+33 44 30
+B W B W W W B B W B B W W B W B W W B B W B B B W W B W B B B B B
+B W B B W B B B B W W W W B B W B B B W B W B W W B B B B W B B W B W W W W W B W B W B
+B W W W W W W B W B W W B W W W W B B B W W B W B B W W W W
+9 17 28
+W B W W W W W W B
+W B W B W W W B B W B B B W B B B
+W B B B B W W B B B B W W W B W W W W W W W W W W B B W
+4 46 16
+B W W B
+W B B W B W B B W W B W B B W B B B W B B W W B W B B B W B B W W B B W W W B W W W B W W W
+B W B W B W B B B W B B W B W B
+2 34 28
+B W
+B W B B W W W B B W B B B B W B W W W B B W B B B W B W B W W W B W
+B W B B W W B B W W B W B W B W W W W W B W W W B W B W
+12 36 35
+B W B W B B B B W W B B
+B W W B B W W B W B W B B B B W W W W B B B W W W W W B B B W W W W B B
+W B W B W W B W B W B W B B W B B W W B W B B W W B W B W W W W W W B
+27 0 5
+B W B B B W W B W B B B W B W B B W W B B W W W W W B
+
+W W B W B
+34 6 37
+B W W W W W W B B W B W W W B B B B B B B B B B W W W W W W W W B W
+B B W W B B
+B B B W B B W B B W W B W W W W B B W W W W B B W W W W W W W B W W W W B
+23 0 32
+B B B W W W B B W B W B W W W B W W B B W W W
+
+W B W B B B B W B W W B W B W B B W B W W W W W B B W W B W B B
+36 33 43
+W B B W W W B B B B W B B W W W W W W W B B W W W W B B W W W W W B W W
+W W W W B B W W W B W B B B W W W W W W B W W B B W W B B B W W B
+W B B W B B W W W B W B B B W W W B B W B B B W W B W W W B B B W W W B B B W B B B W
+0 20 6
+
+W B B B W B W B B W W W B B W W W W W W
+W W W B B B
+0 28 35
+
+B W W W W B B W B B B B W W W B B B B B W W W W B W W B
+W B W B B B W W W W W W W W B W W B B B W B W W B W W W B W B B W W W
+48 25 25
+B W B B B B B W W W W W B W B B W W W W B B B W B B B B W W W W B B W B W W W W B W B W B W W W
+W B W B W B B B W B B W B B B W B W B W W W W W W
+B B W W B W W W W B B W W B B B B W B B W B B B W
+25 40 29
+W B W W B W W W W W W B B B B W B B W B W B B W W
+W W W B B W W B B W B B W W B B B B B W W W W B W B W B B B B B W B B W W B W B
+W W B B B W B B B W W B B W W W B W W W W W W W B W B W W
+16 28 30
+W W B W B W W B W W W B B W W B
+B B B B W W W B B W W W B W B B W W B B B B B W W B B W
+W B W B W B B W B W B B W B B W W B W B W W W W B W B W B W
+45 20 27
+B W B B W W W W W B W B W W B W W W B W B W W B B B W W W B W B B W B B B W W B B W B B B
+B W W B W B W B B B W B B W B W W W W W
+W W W W B W W W B B B W W W W B B B B B B W W B W W W
+38 22 16
+B W B B B W B W B W B W B B B W B W W B W W B B B B B W W B W W W W B B W W
+B W W B B W W W B W B W W W W B W W W B B W
+W W B B W B B B B B B B W W B W
+34 1 47
+W B B W W B W B B W B B W B B W W B W W W B B B W B W B W B W W B W
+B
+W W B W W B B B B W B B W B W B B B B W B B W B W W B W W B W W B W B W W B W B W W W B W B W
+13 43 7
+B W B W W B B B W B W B B
+B B W W B B B B B W W B W B W W B B W W W B B B B B B W W B W B W B W W B W B B W W B
+W W W B W W W
+16 18 20
+B W B B W W W B W B B W B B B W
+B W B B B B W W B W B W B W B W B B
+B B W W B B W B W B B B B B B B W W W B
+17 23 47
+W W W W B W W B B W W B B W W W W
+B B B W W W W B B W W W B B W W W B B W B B B
+B W W W W W W B W B W W B W W B W W W W B W W W B W B W B B B B W W B B B B B W W B W B B W W
+4 30 30
+B B W B
+W B W W B W B W B W B B B B B B B W B B W W W B W W B W B W
+B W W B W B B W W W B W B W W W B B B W W W B W W W B B B W
+40 22 37
+B W B B W B B B W B W B B B W W B W B W B W B B W B B W W B B W B B W B B B W B
+W W W B B B B B W W W B W B B W B B W W B W
+B B W B B B B W W B W W W W B W B B W B B B W B B W B W B B W B B W W W W
+17 15 6
+W B B W W B W W W B W W W W B W B
+B W B W W B B B W B W B W B W
+B W B W B W
+35 37 36
+W W W B B B B W W W B W W W B B W B W W B W W W W W W W W W B W B W W
+B B B W W W B B B B W B W W W B B B B W W W W W W B W W W B B B W W W B W
+B W W W B B W B W W B W B W B B W B W W B B W B W W W W B B B B W B B W
+25 11 16
+B W W W B W W B B B W B B W W B W B B B B B B B B
+W W W W W B W B W B B
+W W B B B B B W W W B B B W W W
+44 13 46
+B B B B B W W W W B W B B W B W W B B B W W B W W B W W B W B B B W B B W W W B B B W W
+W B W B B W B W B B W B B
+W W W B W W W B W B W W B B B B B B B W W B W B W W W W B B W B B W B W B W B W W W B B B B
+36 27 27
+W W B W W W B B B B B B B W B B B W W W W B B B B W B B B W W W W W W W
+B W W B W W W B W W W W B W B B B W B B W B W W B W W
+B B W B B W W B W W B W B B B B B W B W W B W B W B B
+17 32 36
+W W W B W W W W W B W B B W B W B
+B B W W W W B W B B W W W B B W B B W B W W B W W B W B W B W W
+W B B W B B B B B W W W B B W B B W W B B W B B B W W B B B W W B W B W
+17 5 13
+W B B W W B B B W W B W B W B B B
+W B B W B
+W W B W B W B W W B B B B
+37 7 29
+B B B B B W W B B W W B B B B W B B W B W B W B B W B W B W W B W W B B B
+W B W W W B B
+W W B W B B B W B W W B B B B W W W W B W W B W B B B W W
+28 36 30
+B W B B W W B W B B W W B W W B W W B W W B W W B W B W
+W B B B W W W W W B W B B B B W B W W B W B W W B W W B B B B W W W W W
+W W W W W W W B W W W W W B W B W W W B W W B W B W B W B B
+40 5 38
+W W B W W B W B W B W B W W B W B B W W B B B W B W B B W W W W W W B B B B W W
+W B B B W
+W W W W B W W W W B B W W B B W W B W W W B W B W B W W W W B B B B W B B B
+21 42 50
+W W B B W B B W B B W B W B B B W B B B B
+B B B B W B B B W W B W W W W W W W B W B W W W W W W B W W W B W B B B B W W W W W
+B W W B W W W W W B W B W W B B W W W W B W W B B B B W W B W B W W W B W W W W W B W W W W W W B B
+37 50 9
+B W B W W W W W B W B W B B W B W B B W W B W W W B W W W B W B W W B W B
+B B B W B B B B B W B B W B W B B W B W B B W W W W B B B B W B B W W W W B W W B B W B B W B B B W
+W W B W W B W B B
+5 27 21
+B W W W W
+B B B W W B W B B W B B W B W B W B W W W W W B B W W
+B B W W B B W W B B B W B W B B W W B B B
+29 13 46
+W W B B B B W B W B B B B W W W W B B W B B W W W W W B B
+W B W W W B B B W W B W B
+B W B B B B B B W W W W B B B B B B W B B B B W B B B B B B B W W W B B W W W W B W W W W B
+21 39 42
+W B B B W B B W W B W W B W W W W W W W B
+B B B W W W W B B B B B W W W B B W W W B W B B B W W W B B W W B W W W W B W
+B B W B W B W B B W W B B W B B B B W W B B B W B B B W W W W W B W B W W B B B W B
+5 27 24
+B B B B W
+B W B W B W W B B B W B B B W B W B B W B W W B W B B
+B B W B B W B B W B B B W B B W B B W W W B W B
+3 46 12
+W B W
+B W W W W B W W W B W W W W W W W W W B B W B W B W B B W W B W B W B B B W B W B W B W B B
+W B W W B W W B B W B B
+45 30 0
+W W W B B B W W W W W B W W W W W W W B W W W B B B B B B B W B B B W W W B W B B B B W B
+W B W W W W W B W B W B W W B W B B W W W W W B W W W W W W
+
+41 27 38
+W B B B B B W W B B B B B W B W B B W B B W W W W B B W B W B B W B W W W W B B B
+B W W B B W W W W B W W W W B B B B W W W W B W B W W
+B W W W W B W W W B W W B B B W B B B B B B W B W W B W W B B W B W B B W W
+27 22 12
+W W B W W B W W B B W B W B W B B W B W W B W B B B W
+W W W B B B W B W B B W B B B B B W W W B W
+B B W W B B W B B B W W
+19 43 26
+W W B B B B W B B B W B B W B W B W W
+B W B W W W W W W B W W B W B W W B W B B B W W B W W B W W B B W B W W W W W B W W W
+B W W B W W B B B B W B W B B W W W B W B W W W W B
+40 25 38
+B B W W B B B W B W W B B W B W W W B W B W W W W W W B B W W W W B B W W B W B
+B W B B B B B W B W W W B B B W W W B B B W W B W
+B B W B B B W B W B B W B B B W W B W W W B W B W B W W W B W B B B W W B B
+3 3 3
+B B W
+B W B
+W B B
+3 3 2
+B B W
+W W B
+B B
