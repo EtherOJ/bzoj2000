@@ -1,0 +1,5 @@
+name: "另类汉密尔顿路径 "
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 128
