@@ -1,0 +1,5 @@
+name: "[Balkan2009]reading"
+source: bzoj (OI-Archive)
+time_limit: 25000
+timing_mode: total
+space_limit: 128
