@@ -1,0 +1,5 @@
+name: "[SCOI2012]Blinker的噩梦"
+source: bzoj (OI-Archive)
+time_limit: 50000
+timing_mode: total
+space_limit: 512
