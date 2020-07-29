@@ -1,0 +1,5 @@
+name: "[Balkan 2011]2circles"
+source: bzoj (OI-Archive)
+time_limit: 10000
+timing_mode: total
+space_limit: 128
