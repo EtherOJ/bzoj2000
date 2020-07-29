@@ -1,0 +1,23 @@
+Insert 0 f
+Insert 1 j
+Insert 2 x
+Insert 3 m
+Insert 4 l
+Insert 5 h
+Insert 6 x
+Insert 7 w
+Insert 8 j
+Insert 9 z
+Insert 10 b
+Insert 11 m
+Insert 12 r
+Insert 11 z
+Insert 12 b
+Modify 10 11 m
+Remove 10
+Insert 7 t
+Insert 8 o
+Insert 9 o
+Insert 10 r
+Reverse 8 11
+Rotate 1 11 4
