@@ -1,0 +1,5 @@
+name: "[SHOI2009]Coin"
+source: bzoj (OI-Archive)
+time_limit: 30000
+timing_mode: total
+space_limit: 64
