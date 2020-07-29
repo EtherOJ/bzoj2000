@@ -1,0 +1,23 @@
+ [  C C C C C C ]                       [  S S S S S S  ]
+
+ [C C C C C C C ]                       [S S S S S S S S]
+
+ [C C           ]                       [S S S       S S]
+
+ [C C           ]                       [  S S S S      ]
+
+ [C C           ]   [               ]   [      S S S S  ]   [  C C C C C C ]
+
+ [C C           ]   [T T T T T T T T]   [S S       S S S]   [C C C C C C C ]
+------------------+-------------------+-------------------+------------------
+ [C C C C C C C ]   [T T T T T T T T]   [S S S S S S S S]   [C C           ]
+
+ [  C C C C C C ]   [      T T      ]   [  S S S S S S  ]   [C C           ]
+
+                    [      T T      ]                       [C C           ]
+
+                    [      T T      ]                       [C C           ]
+
+                    [      T T      ]                       [C C C C C C C ]
+
+                    [      T T      ]                       [  C C C C C C ]
