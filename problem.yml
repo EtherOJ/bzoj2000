@@ -1,0 +1,5 @@
+name: "[Poi2000]迷宫的墙"
+source: bzoj (OI-Archive)
+time_limit: 4000
+timing_mode: total
+space_limit: 128
