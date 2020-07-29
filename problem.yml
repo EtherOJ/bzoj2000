@@ -1,0 +1,5 @@
+name: "[SCOI2011]植物大战僵尸"
+source: bzoj (OI-Archive)
+time_limit: 40000
+timing_mode: total
+space_limit: 128
